@@ -18,8 +18,6 @@ Instead of boosting drop rates or setting a luck value, MaxLuck reads each NPC's
 - A boss dies → all possible loot, including expert and master mode items
 - Event enemies → full loot tables, every time
 
-The plugin resolves the entire drop rule tree recursively, including conditional branches, expert/master mode splits, and one from many selectors. It takes all branches instead of picking one.
-
 ---
 
 ## Features
